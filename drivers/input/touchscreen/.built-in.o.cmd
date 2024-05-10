@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  arm-poky-linux-musleabi-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/atmel_mxt_ts.o 

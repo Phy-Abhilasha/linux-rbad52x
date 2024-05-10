@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.o :=  arm-poky-linux-musleabi-ld -EL    -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-probe.o drivers/clocksource/timer-atmel-pit.o drivers/clocksource/tcb_clksrc.o 

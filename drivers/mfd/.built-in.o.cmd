@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=  arm-poky-linux-musleabi-ld -EL    -r -o drivers/mfd/built-in.o drivers/mfd/act8945a.o drivers/mfd/mfd-core.o drivers/mfd/at91-usart.o drivers/mfd/atmel-flexcom.o drivers/mfd/atmel-hlcdc.o drivers/mfd/syscon.o 

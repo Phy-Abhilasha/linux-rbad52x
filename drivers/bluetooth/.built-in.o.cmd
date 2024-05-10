@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.o :=  arm-poky-linux-musleabi-ld -EL    -r -o drivers/bluetooth/built-in.o drivers/bluetooth/bfusb.o drivers/bluetooth/btusb.o drivers/bluetooth/btintel.o drivers/bluetooth/btbcm.o drivers/bluetooth/btrtl.o 

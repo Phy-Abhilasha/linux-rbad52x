@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/atmel/built-in.o :=  arm-poky-linux-musleabi-ld -EL    -r -o drivers/media/platform/atmel/built-in.o drivers/media/platform/atmel/atmel-isc.o drivers/media/platform/atmel/atmel-isi.o 

@@ -1,0 +1,5 @@
+kernel/drivers/bluetooth/bfusb.ko
+kernel/drivers/bluetooth/btusb.ko
+kernel/drivers/bluetooth/btintel.ko
+kernel/drivers/bluetooth/btbcm.ko
+kernel/drivers/bluetooth/btrtl.ko
